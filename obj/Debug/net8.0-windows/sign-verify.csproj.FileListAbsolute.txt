@@ -1,0 +1,17 @@
+D:\VS\sign-verify\bin\Debug\net8.0-windows\sign-verify.exe
+D:\VS\sign-verify\bin\Debug\net8.0-windows\sign.dll
+D:\VS\sign-verify\bin\Debug\net8.0-windows\sign-verify.deps.json
+D:\VS\sign-verify\bin\Debug\net8.0-windows\sign-verify.runtimeconfig.json
+D:\VS\sign-verify\bin\Debug\net8.0-windows\sign-verify.dll
+D:\VS\sign-verify\bin\Debug\net8.0-windows\sign-verify.pdb
+D:\VS\sign-verify\obj\Debug\net8.0-windows\sign_verify.signverify.resources
+D:\VS\sign-verify\obj\Debug\net8.0-windows\sign-verify.csproj.GenerateResource.cache
+D:\VS\sign-verify\obj\Debug\net8.0-windows\sign-verify.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\sign-verify\obj\Debug\net8.0-windows\sign-verify.AssemblyInfoInputs.cache
+D:\VS\sign-verify\obj\Debug\net8.0-windows\sign-verify.AssemblyInfo.cs
+D:\VS\sign-verify\obj\Debug\net8.0-windows\sign-verify.csproj.CoreCompileInputs.cache
+D:\VS\sign-verify\obj\Debug\net8.0-windows\sign-verify.dll
+D:\VS\sign-verify\obj\Debug\net8.0-windows\refint\sign-verify.dll
+D:\VS\sign-verify\obj\Debug\net8.0-windows\sign-verify.pdb
+D:\VS\sign-verify\obj\Debug\net8.0-windows\sign-verify.genruntimeconfig.cache
+D:\VS\sign-verify\obj\Debug\net8.0-windows\ref\sign-verify.dll
