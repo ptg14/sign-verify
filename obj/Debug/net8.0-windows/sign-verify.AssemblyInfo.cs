@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sign-verify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c885dc1ebae6826067183b5ddac0d2f3b695289f")]
 [assembly: System.Reflection.AssemblyProductAttribute("sign-verify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sign-verify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

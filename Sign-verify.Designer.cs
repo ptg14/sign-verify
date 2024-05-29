@@ -170,6 +170,7 @@
             // 
             // LB_result
             // 
+            LB_result.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             LB_result.AutoSize = true;
             LB_result.Location = new Point(181, 321);
             LB_result.Name = "LB_result";
@@ -196,7 +197,7 @@
             Controls.Add(TB_pdf);
             Controls.Add(TB_key);
             Name = "signverify";
-            Text = "Form1";
+            Text = "sign and verify";
             ResumeLayout(false);
             PerformLayout();
         }
